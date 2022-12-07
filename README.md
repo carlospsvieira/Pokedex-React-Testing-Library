@@ -15,3 +15,7 @@ I feel more confident to send out my projects now that I can test them at a larg
 
 #### Check out the pokedex with a little css here: https://carlospsvieira.github.io/pokedex-react-testing-library/#/
 
+#### Screen showing how it looks in editor
+
+![alt text](https://github.com/carlospsvieira/pokedex-react-testing-library/blob/main/src/images/1669250443921.jpeg)
+
